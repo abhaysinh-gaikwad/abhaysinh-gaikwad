@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhaysinh Gaikwad</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysinh-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysinh-gaikwad" /> </p>
 
 - 🌱 I’m currently learning **Java DSA SQL MongoDB HTML CSS JavaScript SpringBoot**
 
@@ -23,7 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaysinh-gaikwad&show_icons=true&locale=en" alt="abhaysinh-gaikwad" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysinh-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysinh-gaikwad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysinh-gaikwad" alt="abhaysinh-gaikwad" /></a> </p>
 
