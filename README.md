@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysinh-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysinh-gaikwad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysinh-gaikwad" alt="abhaysinh-gaikwad" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/abhaysinh2202" target="blank"><img src="https://img.shields.io/twitter/follow/abhaysinh2202?logo=twitter&style=for-the-badge" alt="abhaysinh2202" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js**
 
 - Portfolio [https://abhaysinh-gaikwad.github.io/](https://abhaysinh-gaikwad.github.io/)
@@ -33,3 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaysinh-gaikwad&show_icons=true&locale=en" alt="abhaysinh-gaikwad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysinh-gaikwad&" alt="abhaysinh-gaikwad" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysinh-gaikwad" alt="abhaysinh-gaikwad" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/abhaysinh2202" target="blank"><img src="https://img.shields.io/twitter/follow/abhaysinh2202?logo=twitter&style=for-the-badge" alt="abhaysinh2202" /></a> </p>
