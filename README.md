@@ -85,7 +85,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=visorry&repo=Compiler-Chetna-2345t&theme=ayu-mirage&layout=compact" />
     </a>
    <a href="https://github.com/yogeshmasaistudent/Kitchen-Kingdom-AI">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yogeshmasaistudent&repo=Kitchen-Kingdom-AI&theme=ayu-mirage&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhaysinh-gaikwad&repo=Kitchen-Kingdom-AI&theme=ayu-mirage&layout=compact" />
     </a>
 </div>
 
