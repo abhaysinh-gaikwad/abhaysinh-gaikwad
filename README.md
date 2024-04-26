@@ -1,8 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h2 >Hi 👋, there !</h2>
-  
-<hr>
-<!--   <h2 align="center">A passionate Full Stack Developer</h2> -->
      <div ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Node.js+Backend+Developer.;Committed+to+continous+learning." alt="Typing SVG" /></a></div>
   
 <div>
@@ -78,12 +75,14 @@
 <br/>
 <hr>
 
-
+<div align="center">
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaysinh-gaikwad&show_icons=true&locale=en&layout=compact" alt="abhaysinh-gaikwad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaysinh-gaikwad&show_icons=true&locale=en" alt="abhaysinh-gaikwad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysinh-gaikwad&" alt="abhaysinh-gaikwad" /></p>
+</div>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysinh-gaikwad" alt="abhaysinh-gaikwad" /></a> </p>
