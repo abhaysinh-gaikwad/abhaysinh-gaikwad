@@ -81,7 +81,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhaysinh-gaikwad&show_icons=true&locale=en" alt="abhaysinh-gaikwad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysinh-gaikwad&" alt="abhaysinh-gaikwad" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysinh-gaikwad&" alt="abhaysinh-gaikwad" /></p>
 
 
 
