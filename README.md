@@ -8,18 +8,21 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysinh-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysinh-gaikwad" /> </p>
 
-<div >
+<div>
 <h2 align="center"> About Me </h2>
-- 🌱 I’m currently learning **Full Stack Development at Masai School**
+🌱 I’m currently learning Full Stack Development at Masai School
 
-- Portfolio [https://abhaysinh-gaikwad.github.io/](https://abhaysinh-gaikwad.github.io/)
 
-- 💬 Ask me about **Development**
-
-- 📫 How to reach me **abhaygaikwad7666@gmail.com**
-
+- 💬 Ask me about **RestAPI**
 - ⚡ Fun fact **I think I am funny**
+- 📫 How to reach me : 
+  <h5>Email : abhaygaikwad7666@gmail.com</h5>
 
+  <h5>Portfolio : https://abhaysinh-gaikwad.github.io//</h5>
+  
+  <h5>LeetCode : https://leetcode.com/abhaysinhgaikwad/</h5>
+
+  <h5>LinkedIn : https://www.linkedin.com/in/abhaysinh-anil-gaikwad/</h5>
 <div aling="center">
 
 <h3 align="left">Connect with me:</h3>
