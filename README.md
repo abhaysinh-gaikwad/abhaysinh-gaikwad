@@ -75,14 +75,28 @@
 <br/>
 <hr>
 
-<div align="center">
-  
+<h2>My Collaborations👨‍💻:</h2>
+   
+<div aling="center">
+<a href="https://github.com/abhaysinh-gaikwad/cipher-sorceress-0123">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhaysinh-gaikwad&repo=cipher-sorceress-0123&theme=ayu-mirage&layout=compact" />
+</a>
+    <a href="https://github.com/visorry/Compiler-Chetna-2345">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=visorry&repo=Compiler-Chetna-2345t&theme=ayu-mirage&layout=compact" />
+    </a>
+   <a href="https://github.com/yogeshmasaistudent/Kitchen-Kingdom-AI">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yogeshmasaistudent&repo=Kitchen-Kingdom-AI&theme=ayu-mirage&layout=compact" />
+    </a>
+</div>
+
+
+<h1>Github Stats</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaysinh-gaikwad&show_icons=true&locale=en&layout=compact" alt="abhaysinh-gaikwad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaysinh-gaikwad&show_icons=true&locale=en" alt="abhaysinh-gaikwad" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhaysinh-gaikwad&show_icons=true&locale=en" alt="abhaysinh-gaikwad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysinh-gaikwad&" alt="abhaysinh-gaikwad" /></p>
-</div>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysinh-gaikwad" alt="abhaysinh-gaikwad" /></a> </p>
