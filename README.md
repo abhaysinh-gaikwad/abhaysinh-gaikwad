@@ -8,7 +8,9 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysinh-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysinh-gaikwad" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+<div >
+<h2 align="center"> About Me </h2>
+- 🌱 I’m currently learning **Full Stack Development at Masai School**
 
 - Portfolio [https://abhaysinh-gaikwad.github.io/](https://abhaysinh-gaikwad.github.io/)
 
@@ -17,8 +19,8 @@
 - 📫 How to reach me **abhaygaikwad7666@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-  
-- <p align="left"> <a href="https://twitter.com/abhaysinh2202" target="blank"><img src="https://img.shields.io/twitter/follow/abhaysinh2202?logo=twitter&style=for-the-badge" alt="abhaysinh2202" /></a> </p>
+
+<div aling="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
