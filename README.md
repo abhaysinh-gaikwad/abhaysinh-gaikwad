@@ -76,20 +76,24 @@
 
 
 <h1>Github Stats</h1>
- <div class="statistics_container container grid">
+<div class="statistics_container container grid" style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px;">
+    <img id="github-stats-card"
+         src="https://github-readme-stats.vercel.app/api?username=abhaysinh-gaikwad"
+         alt="GitHub Stats Card"
+         style="margin: 10px 0;">
 
-<img id="github-stats-card"
-                    src="https://github-readme-stats.vercel.app/api?username=abhaysinh-gaikwad"
-                    alt="github-stats-card">
-            
-<img id="github-top-langs"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysinh-gaikwad&langs_count=4&theme=city_light&include_all_commits=true&count_private=true&layout=compact"
-                    alt="github-top-langs">
-            
-<img id="github-streak-stats"
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysinh-gaikwad&ring=5094f0&currStreakLabel=5094f0&fire=5094f0&theme=city_light"
-                    alt="github-streak-stats">
+    <img id="github-top-langs"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysinh-gaikwad&langs_count=4&theme=city_light&include_all_commits=true&count_private=true&layout=compact"
+         alt="GitHub Top Languages"
+         style="margin: 10px 0;">
+
+    <img id="github-streak-stats"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysinh-gaikwad&ring=5094f0&currStreakLabel=5094f0&fire=5094f0&theme=city_light"
+         alt="GitHub Streak Stats"
+         style="margin: 10px 0;">
+         
 </div>
+
 
 
 
