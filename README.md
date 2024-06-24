@@ -82,12 +82,12 @@
          alt="GitHub Stats Card"
          style="margin: 10px 0;">
 
-    <img id="github-top-langs"
+<img id="github-top-langs"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysinh-gaikwad&langs_count=4&theme=city_light&include_all_commits=true&count_private=true&layout=compact"
          alt="GitHub Top Languages"
          style="margin: 10px 0;">
 
-    <img id="github-streak-stats"
+<img id="github-streak-stats"
          src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysinh-gaikwad&ring=5094f0&currStreakLabel=5094f0&fire=5094f0&theme=city_light"
          alt="GitHub Streak Stats"
          style="margin: 10px 0;">
