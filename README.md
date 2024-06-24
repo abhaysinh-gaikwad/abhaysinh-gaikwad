@@ -80,7 +80,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhaysinh-gaikwad&show_icons=true&locale=en" alt="abhaysinh-gaikwad" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysinh-gaikwad&" alt="abhaysinh-gaikwad" /></p>
+<script src="https://cdn.jsdelivr.net/npm/github-calendar@1.1.0/dist/github-calendar.min.js"></script>
 
 
 
