@@ -76,7 +76,7 @@
 
 
 <h1>Github Stats</h1>
-<div class="statistics_container container grid" style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px;">
+<div class="statistics_container container grid" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
     <img id="github-stats-card"
          src="https://github-readme-stats.vercel.app/api?username=abhaysinh-gaikwad"
          alt="GitHub Stats Card"
