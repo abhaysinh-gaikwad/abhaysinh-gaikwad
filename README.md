@@ -15,7 +15,7 @@
 - 📫 How to reach me : 
   <h5>Email : <span>abhaygaikwad7666@gmail.com</span></h5>
 
-  <h5>Portfolio : https://abhaysinh-gaikwad.github.io/</h5>
+  <!-- <h5>Portfolio : https://abhaysinh-gaikwad.github.io/</h5> -->
   
   <h5>LeetCode : https://leetcode.com/abhaysinhgaikwad/</h5>
 
