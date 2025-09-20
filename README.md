@@ -10,7 +10,7 @@
 ---
 
 ### 🔍 About Me
-- 💻 Software Development Engineer I @ **PropFTX** (July 2024 – Present)
+- 💻 Software Development Engineer I @ **PropFTX** (July 2023 – Present)
 - 🌱 Currently mastering Full Stack Development | Masai School Graduate
 - 💬 Ask me about **REST APIs**, **Serverless Architecture**, or **SQL Optimization**
 - ✨ Fun Fact: I *think* I'm funny 😄
