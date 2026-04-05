@@ -10,7 +10,7 @@
 ---
 
 ### 🔍 About Me
-- 💻 Senior Backend Engineer @ **Trueigtech** (Jan 2026 – Present)  
+- 💻 Senior Software Engineer @ **Trueigtech** (Jan 2026 – Present)  
 - 💻 Former Software Development Engineer I @ **PropFTX** (Jul 2023 – Jan 2026)  
 - 🌱 Skilled in backend architecture, event-driven systems, real-time trading & fintech platforms  
 - 💬 Ask me about **Node.js**, **Kafka**, **Event-Driven Architecture**, or **SQL Optimization**  
